@@ -3,7 +3,7 @@ title: "AeroTrack"
 github: "https://github.com/Ollie17112/AeroTrack"
 description: "An overhead gantry system for makers who need an extra hand in their workspace. This Gantry will be able to move autonomously with capability for a multi-modular system such as a spot light, camera, or arm. I am building this project as I always find my desk cluttered when trying to complete an electronics project. The plan for the project is to create a belt driven gantry with an arm capable of positioning the modules autonomously. This unit will also be controllable through a web interface where different modes can be programmed."
 created_at: "2026-11-25"
-total_time: "7h"
+total_time: "11h"
 ---
 
 # November 25, 2026: Linear rail selection
@@ -59,3 +59,18 @@ For the left hand side there will be an idler gear which the belt will move on. 
 ![](https://fabricate.hackclub-assets.com/559f120b04a705ceec78e93a96974cae3931cc409a4e015b4ed120d4bc93b33e/image-png/image.png)
 
 **Total time spent: 2h 30m**
+
+# November 28, 2026: Left side idler assembly provisional design complete
+<!-- fabricate:entry 4104 -->
+
+In this session I finished the provisional design for the left idler gear assembly which the belt will attach too. Here is the exploded view of this:
+
+![](https://fabricate.hackclub-assets.com/7523b7b0510c5513ee7bb58a45acc170b8812bf141e2b4918bad0ab98e4ec01a/image-png/image.png)
+
+Despite being a small component of the project it will be crucial in ensuring that the motion system works well. To help with this I made sure that in the SolidWorks assembly the idler gear was perfectly aligned with the timing gear opposite. I did this using small plastic washers pressed against the bearing on the M5 bolt. This will allow the pulley to move smoothly.
+
+Main Assembly:
+
+![](https://fabricate.hackclub-assets.com/ee95d7fe8dd87110eed749a446f76019daebf160264cb608b80eb54072c00320/image-png/image.png)
+
+**Total time spent: 4h**
